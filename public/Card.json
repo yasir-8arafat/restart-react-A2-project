@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1001,
+        "title": "Login Issues - Can't Access Account",
+        "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still cannot access it.",
+        "customer": "John Smith",
+        "priority": "HIGH",
+        "status": "OPEN",
+        "createdAt": "2024-01-15"
+    },
+    {
+        "id": 1002,
+        "title": "Payment Failed - Card Declined",
+        "description": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.",
+        "customer": "Sarah Johnson",
+        "priority": "HIGH",
+        "status": "OPEN",
+        "createdAt": "2024-01-16"
+    },
+    {
+        "id": 1003,
+        "title": "Unable to Download Invoice",
+        "description": "Customer cannot download their January invoice from the billing section. The download button is not responding.",
+        "customer": "Michael Brown",
+        "priority": "MEDIUM",
+        "status": "IN_PROGRESS",
+        "createdAt": "2024-01-17"
+    },
+    {
+        "id": 1004,
+        "title": "Incorrect Billing Address",
+        "description": "Customer's billing address shows a different city even after updating it in settings.",
+        "customer": "Emily Davis",
+        "priority": "LOW",
+        "status": "OPEN",
+        "createdAt": "2024-01-18"
+    },
+    {
+        "id": 1005,
+        "title": "App Crash on Launch",
+        "description": "Customer reports that the mobile app crashes immediately upon opening on Android 13.",
+        "customer": "David Wilson",
+        "priority": "HIGH",
+        "status": "OPEN",
+        "createdAt": "2024-01-19"
+    },
+    {
+        "id": 1006,
+        "title": "Refund Not Processed",
+        "description": "Customer requested a refund two weeks ago but has not received the amount yet.",
+        "customer": "Sophia Taylor",
+        "priority": "MEDIUM",
+        "status": "IN_PROGRESS",
+        "createdAt": "2024-01-20"
+    },
+    {
+        "id": 1007,
+        "title": "Password Reset Email Not Received",
+        "description": "Customer tried to reset password but did not receive the reset email.",
+        "customer": "Daniel Anderson",
+        "priority": "HIGH",
+        "status": "OPEN",
+        "createdAt": "2024-01-21"
+    },
+    {
+        "id": 1008,
+        "title": "Slow Website Performance",
+        "description": "Customer reports that the website loads very slowly during checkout.",
+        "customer": "Olivia Martinez",
+        "priority": "MEDIUM",
+        "status": "IN_PROGRESS",
+        "createdAt": "2024-01-22"
+    },
+    {
+        "id": 1009,
+        "title": "Order Not Showing in History",
+        "description": "Customer placed an order but it does not appear in their order history.",
+        "customer": "James Thomas",
+        "priority": "HIGH",
+        "status": "OPEN",
+        "createdAt": "2024-01-23"
+    },
+    {
+        "id": 1010,
+        "title": "Email Notifications Not Working",
+        "description": "Customer is not receiving any email notifications for updates or alerts.",
+        "customer": "Isabella White",
+        "priority": "LOW",
+        "status": "OPEN",
+        "createdAt": "2024-01-24"
+    },
+    {
+        "id": 1011,
+        "title": "Duplicate Charges on Account",
+        "description": "Customer was charged twice for the same transaction.",
+        "customer": "William Harris",
+        "priority": "HIGH",
+        "status": "IN_PROGRESS",
+        "createdAt": "2024-01-25"
+    },
+    {
+        "id": 1012,
+        "title": "Profile Picture Upload Failed",
+        "description": "Customer cannot upload a profile picture; upload fails every time.",
+        "customer": "Ava Clark",
+        "priority": "LOW",
+        "status": "OPEN",
+        "createdAt": "2024-01-26"
+    }
+]

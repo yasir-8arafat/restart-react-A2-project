@@ -7,3 +7,6 @@ where prop help us to pass data Parent to Child it's read only we cannot change 
 
 3.What is the useState hook, and how does it work?
 Answer : useState Hook help us store and update data inside a component. Means useState allows a component to remember values and re-render when they change.
+
+4.How can you share state between components in React?
+Answer : By declaring the State in Common or root Parent & share it by props to every child component.

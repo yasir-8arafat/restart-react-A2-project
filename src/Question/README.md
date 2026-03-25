@@ -10,3 +10,9 @@ Answer : useState Hook help us store and update data inside a component. Means u
 
 4.How can you share state between components in React?
 Answer : By declaring the State in Common or root Parent & share it by props to every child component.
+
+5.How is event handling done in React?
+Answer : Event Handeling can be done in many ways most common 3 ways are:
+i. when parameter Mendatory : onClick={() => handleClick(parameter)}
+ii. when no parameter : onClick={handleClick}
+iii. by using Aero Function :  onClick={() => console.log("Clicked!")}
